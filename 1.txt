@@ -1,0 +1,4 @@
+hello, this is a test file to check about git commit message
+this is the second line of the file
+this is the third line of the file
+this is the fourth line of the file
